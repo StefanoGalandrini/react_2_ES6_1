@@ -1,0 +1,22 @@
+{
+  "name": "lc-es6",
+  "version": "1.0.0",
+  "description": "Ripasso dei concetti fondamentali di JS ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian-Bool-React-1/lc-es6.git"
+  },
+  "author": "Leica Florian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florian-Bool-React-1/lc-es6/issues"
+  },
+  "homepage": "https://github.com/Florian-Bool-React-1/lc-es6#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
